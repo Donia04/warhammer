@@ -87,7 +87,7 @@ header li:hover {
 
 /* ---------- Banner ---------- */
 
-#banner {
+.banner {
     background-image: url("../images/angron.jpeg");
     background-position: center;
     background-size: cover;
@@ -96,7 +96,7 @@ header li:hover {
     position: relative;
 }
 
-#banner div {
+.banner div {
     height: 175px;
     width: 25%;
     min-width: 300px;
@@ -113,7 +113,7 @@ header li:hover {
     bottom: 100px;
 }
 
-#banner p {
+.banner p {
     margin: 10px 0;
 }
 
