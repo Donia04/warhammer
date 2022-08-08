@@ -61,11 +61,11 @@ header li:hover {
 }
 
 /* ---------- Header Mobile ---------- */
-
+/*
 @media only screen and (max-width: 700px) {
     /*header {
         top: 
-    }*/
+    }*//*
 
     header img {
         width: 100%;
@@ -88,6 +88,6 @@ header li:hover {
         height: 200px;
     }
 }
-
+*/
 /* ---------- Banner ---------- */
 
